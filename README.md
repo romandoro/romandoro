@@ -27,7 +27,7 @@ If you're into blending code with servers or want to talk about elegant solution
 
 ## 🌟 Projects That I Love Working On
 
-### 🚀 [Partners on Map](link-to-project)
+### 🚀 [Partners on Map](https://github.com/romandoro/partners_on_map)
 A sleek PHP & JS-powered app that drops partner markers on the map, highlighting the provinces where they offer their magic. <br />
 Think of it as a virtual handshake with every partner—now you can easily see who’s offering what, and where, all in one interactive map.
 
