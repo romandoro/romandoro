@@ -1,62 +1,57 @@
-<!-- =====================  RED-TEAM VIBES PROFILE  ===================== -->
+<!-- =====================  CYBER PROFILE ===================== -->
 
+<!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/romandoro/romandoro/main/assets/red_team_banner.png" width="80%" alt="Red Team Banner">
+  <img src="https://raw.githubusercontent.com/romandoro/romandoro/main/assets/cyber_header.svg" width="85%" alt="cyber-header">
 </p>
 
-# 🩸 Roman // 0xD0R0  
-
-Offensive Security Specialist · Pentester · Code & Coffee Junkie  
-
-I break things so others can build them safer.  
-From silent recon to post-exfil cleanup, I operate in the twilight zone between “impossible” and “already pwned”.
+<h1 align="center"><code>Roman&nbsp;//&nbsp;0xD0R0</code></h1>
+<p align="center">
+  <i>Offensive security & backend engineering</i>
+</p>
 
 ---
 
-## 🔥 Mission Brief
-
-• Conduct full-scope penetration tests (web, infra, cloud)  
-• Craft zero-noise Python & PHP tooling for ops automation  
-• Speak native TCP/IP—pivoting, packet-crafting, and dropping shells since dial-up  
-• Map threat surfaces, slip past blue teams, and report with surgical detail  
-• Advocate purple-team culture: teach defenders by playing the villain  
-
----
-
-## 🛠 Offensive Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=yellow)
-![Kali](https://img.shields.io/badge/Kali-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6F00?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-4F97FF?style=for-the-badge)
-![Metasploit](https://img.shields.io/badge/Metasploit-5E3AEE?style=for-the-badge)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-> “Give me a shell and I’ll show you the universe.” — me, probably
+### ↯ What I Do
+- Web-application penetration testing  
+- Network penetration testing  
+- AWS infrastructure management & incident response  
+- Automated tooling & data-crunching in Python  
+- Admin dashboards & APIs with Symfony / PHP  
 
 ---
 
-## 📂 Ops Repositories
-
-| Repo | Why it exists |
-| ---- | ------------- |
-| [`redmap`](https://github.com/romandoro/redmap) | One-command network mapper + screenshotter (Python) |
-| [`silent-c2`](https://github.com/romandoro/silent-c2) | Minimalist C2 written in PHP-Swoole, built for quiet ops |
-| [`payload-foundry`](https://github.com/romandoro/payload-foundry) | Template generator for staged & stageless payloads |
-
-*(The spiciest stuff lives in private repos—ask nicely.)*
-
----
-
-## 🎯 Engagement Highlights
-
-• 2024: Breached a zero-trust segmented network in < 48 h via rogue DHCP + IPv6 confusion  
-• 2023: Escalated from SSRF to full cloud-root in fintech AWS environment  
-• 2022: Simulated telecom compromise—100 % domain takeover, zero detections 🔥  
+### ⚙️  Tech Radar
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
+![PHP](https://img.shields.io/badge/PHP-0d1117?style=for-the-badge&logo=php&logoColor=777BB4)
+![Symfony](https://img.shields.io/badge/Symfony-0d1117?style=for-the-badge&logo=symfony&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-0d1117?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=FCC624)
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-0d1117?style=for-the-badge&logo=burpsuite&logoColor=FF6F00)
+![Nmap](https://img.shields.io/badge/Nmap-0d1117?style=for-the-badge&logoColor=4F97FF)
 
 ---
 
-## 🌐 Contact / Key Drop
+### 📌 Featured Projects
+| Project | Brief |
+| ------- | ----- |
+| [`partners_on_map`](https://github.com/romandoro/partners_on_map) | Interactive map that visualizes partner locations (PHP, JS, Leaflet). Built for a company to give their sales team instant geo-context. |
+| [`aws-iam-forensic`](https://github.com/romandoro/aws-iam-forensic) | Python utility that reviews IAM CloudTrail data to spot compromised accounts & anomalous actions. |
+
+More projects are brewing in the private lab 🔐  
+
+---
+
+### 🌐 Contact
+| Channel | Link |
+| ------- | ---- |
+| Site | https://romandoro.com |
+| Telegram | [@weborbit_official](https://t.me/weborbit_official) |
+| LinkedIn | https://linkedin.com/in/roman-d-12740a2b3 |
+| PGP | `0xF1ADD00R0` |
+
+---
+
+<sub>All code and research are provided for legitimate security testing and educational purposes only.</sub>
