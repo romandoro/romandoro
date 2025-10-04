@@ -10,7 +10,8 @@
 - Network penetration testing  
 - AWS infrastructure management & incident response  
 - Automated tooling & data-crunching in Python  
-- Admin dashboards & APIs with Symfony / PHP  
+- Admin dashboards & APIs with Symfony / PHP
+- CI/CD badges, build-passing, code-coverage for public tools.
 
 ---
 
