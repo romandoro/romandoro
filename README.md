@@ -1,49 +1,62 @@
-# Hey there, I'm Roman! 🌟
+<!-- =======================  RED TEAM PROFILE  ======================= -->
 
-A Symfony warrior by day, PHP backend alchemist by passion, and a system administration enthusiast 24/7. Whether it's crafting sleek, powerful backends or diving into the depths of servers and Linux, I'm all about creating secure and scalable solutions with a creative twist.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/romandoro/romandoro/main/assets/red_team_banner.png" width="80%" alt="Red Team Banner">
+</p>
 
-If you're into blending code with servers or want to talk about elegant solutions, you've found your geeky soulmate. 💻🚀  
+# 🩸 Roman // 0xD0R0  
 
-## 🛠️ Tech Arsenal
+Offensive Security Engineer · Red Team Operator · Code & Coffee Junkie  
 
-### 🔑 Core Tech
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-000000?style=for-the-badge&logo=githubactions&logoColor=white)
-![Web Servers](https://img.shields.io/badge/Web_Servers-FF6F00?style=for-the-badge&logo=apache&logoColor=white)
-![Databases](https://img.shields.io/badge/Databases-1565C0?style=for-the-badge)
+I break things so you can build them safer.  
+From stealth-mode recon to post-exfil clean-up, I live in the gap between “impossible” and “already pwned”.
 
-### 🔒 Security Addict
-![Pentesting](https://img.shields.io/badge/Pentesting-6200EA?style=for-the-badge)
-![OSINT](https://img.shields.io/badge/OSINT-311B92?style=for-the-badge)
+---
 
-### 💻 Dev Tools
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+## 🔥 Mission Brief
+
+• Spear-heading full-scope pentests (web, infra, cloud)  
+• Crafting zero-noise Python & PHP tooling for ops automation  
+• Talking TCP/IP fluently—pivoting, packet-crafting, and dropping shells since dial-up  
+• Mapping threat surfaces, slipping past blue teams, and reporting with surgical detail  
+• Preaching purple-team culture: teach defenders by playing the villain  
+
+---
+
+## 🛠 Offensive Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=yellow)
+![Kali](https://img.shields.io/badge/Kali-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6F00?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-4F97FF?style=for-the-badge)
+![Metasploit](https://img.shields.io/badge/Metasploit-5E3AEE?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+> “Give me a shell and I’ll show you the universe.” — me, probably
 
 ---
 
-## 🌟 Projects That I Love Working On
+## 📂 Ops Repositories
 
-### 🚀 [Partners on Map](https://github.com/romandoro/partners_on_map)
-A sleek PHP & JS-powered app that drops partner markers on the map, highlighting the provinces where they offer their magic. <br />
-Think of it as a virtual handshake with every partner—now you can easily see who’s offering what, and where, all in one interactive map.
+| Repo | Why it exists |
+| ---- | ------------- |
+| [`redmap`](https://github.com/romandoro/redmap) | One-command network mapper + screenshotter (Python) |
+| [`silent-c2`](https://github.com/romandoro/silent-c2) | Minimalist C2 written in PHP-Swoole, built for quiet ops |
+| [`payload-foundry`](https://github.com/romandoro/payload-foundry) | Template generator for staged & stageless payloads |
 
----
-
-## 📡 Let's Get Connected!  
-
-Ping me on any of these platforms—I'm always ready for cool collaborations or just to geek out:  
-
-- 🌐 **[Website/Portfolio](https://romandoro.com)**
-- 💼 **[LinkedIn](https://www.linkedin.com/in/roman-d-12740a2b3)**  
-- ✍🏻 **[Telegram](https://telegram.me/weborbit_official)**   
-
-Or just hit me up in Morse code if you're into that kinda thing. 😉
+*(Most juicy stuff lives in private repos—ask nicely.)*
 
 ---
 
-## 🤓 A Fun Fact About Me
-I believe there's no better mix than Symfony's elegance and the raw power of Linux. The ultimate double shot espresso for a developer's soul! ☕
+## 🎯 Recent Engagement Highlights
+
+• 2024: Breached a zero-trust segmented network in < 48 h via rogue DHCP + IPv6 confusion  
+• 2023: Escalated from SSRF to full cloud-root in fintech AWS environment  
+• 2022: Led red team exercise for a telecom—100 % domain takeover, no detections 🔥  
+
+---
+
+## 🌐 Contact / Key Drop
