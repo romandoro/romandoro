@@ -1,10 +1,3 @@
-<!-- =====================  CYBER PROFILE ===================== -->
-
-<!-- Banner -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/romandoro/romandoro/main/assets/cyber_header.svg" width="85%" alt="cyber-header">
-</p>
-
 <h1 align="center"><code>Roman&nbsp;//&nbsp;0xD0R0</code></h1>
 <p align="center">
   <i>Offensive security & backend engineering</i>
